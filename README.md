@@ -48,6 +48,7 @@ The LMU Munich version includes several color themes suitable for various types 
 
 You're encouraged to create your own color theme or use the `lmu` theme for presentations associated with the University.
 
+
 ## Design Goals
 
 * **Minimal**: Focuses on readability and simplicity.
