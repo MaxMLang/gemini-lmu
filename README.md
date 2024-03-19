@@ -1,7 +1,3 @@
-Certainly, I can help you adjust the template for Ludwig Maximilian University of Munich (LMU Munich). Here's an adaptation:
-
----
-
 # Gemini LMU Munich Version [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 This is an unofficial adaptation of the modern LaTeX [beamerposter] theme, Gemini, tailored for Ludwig Maximilian University of Munich (LMU Munich).
