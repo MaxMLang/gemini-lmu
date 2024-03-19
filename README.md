@@ -1,7 +1,3 @@
-Certainly, I can help you adjust the template for Ludwig Maximilian University of Munich (LMU Munich). Here's an adaptation:
-
----
-
 # Gemini LMU Munich Version [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 This is an unofficial adaptation of the modern LaTeX [beamerposter] theme, Gemini, tailored for Ludwig Maximilian University of Munich (LMU Munich).
@@ -52,13 +48,6 @@ The LMU Munich version includes several color themes suitable for various types 
 
 You're encouraged to create your own color theme or use the `lmu` theme for presentations associated with the University.
 
-### LMU Theme
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-lmu.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-lmu-small.png">
-</a>
-</p>
 
 ## Design Goals
 
