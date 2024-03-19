@@ -8,7 +8,7 @@ This is an unofficial adaptation of the modern LaTeX [beamerposter] theme, Gemin
 
 <p align="center">
 <a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
+<img src="https://raw.githubusercontent.com/maxmlang/assets/master/lmu-poster.png">
 </a>
 </p>
 
